@@ -1,0 +1,6 @@
+This software uses the following components license under Apache 2.0 license (LICENSE-APACHE.TXT):
+  - Amazon AWS SDK for Java 
+  - Joda Time
+
+And the following component licensed under a BSD-Style license (LICENSE-HIDAPI.TXT):
+  - HIDAPI
