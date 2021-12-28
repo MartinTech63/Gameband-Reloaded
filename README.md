@@ -9,6 +9,7 @@ Les services officiels de Gameband sont fermé, donc j'ai décidé de créer cet
 
 De futures mises à jours sont prévues!  
 
-  L'ancien site de Gameband : https://web.archive.org/web/20160904050834/http://www.gameband.com/
+
+L'ancien site de Gameband : https://web.archive.org/web/20160904050834/http://www.gameband.com/
   
 ![splash](https://user-images.githubusercontent.com/75930741/138355320-ede7e537-925f-438a-ae3b-090f256ea1ba.gif)
