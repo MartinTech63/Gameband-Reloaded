@@ -1,5 +1,7 @@
 # Gameband-Reloaded
   Gameband Reloaded.  
+
+⚠️ PROJET EN PAUSE ⚠️
   
 ![gameband_logo](https://user-images.githubusercontent.com/75930741/138355326-74c9509d-16d1-4b68-9102-305ac871b704.png)
 
